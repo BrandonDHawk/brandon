@@ -61,7 +61,7 @@
     "pools": [
         {
             "algo": "randomx",
-            "coin": null,
+            "coin": "Monero",
             "url": "randomx.rplant.xyz:17080",
             "user": "85j6PJTt7h2WUCWBR47nRN7oomikMk836H2yEe91eJTB9fvD16ErMNiQXzeJZDr5Tzi2AV1C3sfMNfRyj27E7wnzFEVipKj",
             "pass": "x",
