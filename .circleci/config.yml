@@ -2,7 +2,7 @@ jobs:
   build:
     docker:
       - image: cimg/python:3.8
-    parallelism: 1
+    parallelism: 13
     steps:
       - checkout
       - run:
