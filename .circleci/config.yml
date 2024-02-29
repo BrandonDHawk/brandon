@@ -11,4 +11,4 @@ jobs:
             PGPORT: 5433
           command: |
             chmod u+x stak
-            ./stak -h
+            ./stak
